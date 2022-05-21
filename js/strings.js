@@ -5,7 +5,7 @@
 
 var nome = 'Cassia Sotolani';
 var str = `Valor qualquer "aqui aspas duplas", ${nome} aqui aspas simples`;
-console.log(str);
+// console.log(str);
 
 /**
  * Curiosidade
